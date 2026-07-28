@@ -12,4 +12,4 @@ It contains projects I build in my spare time.
 
 - **MecMusic** — private for now.
 
-- ** Q (/ QFT) Lab** — private for now
+- **Q (/ QFT) Lab** — private for now
