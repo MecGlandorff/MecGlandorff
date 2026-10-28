@@ -4,7 +4,7 @@ It contains projects I build in my spare time.
 
 ## Current projects being worked on
 
-- **[McChess](https://github.com/MecGlandorff/McChess)** — a from-scratch neural chess system built around policy/value networks, reproducible training, and MCTS. Its current local Stockfish benchmark gives a rough 2653 Elo estimate. Still being improved.
+- **[McChess](https://github.com/MecGlandorff/McChess)** — A small neural chess engine trained from scratch on human games, without engine supervision. Its neural network guides a limited MCTS search instead of Stockfish’s alpha-beta approach. Trained on a local **RTX 4060** GPU, with a **rough local Stockfish-UCI handicap estimate of 2653** across 200 games.
 
 - **[News](https://github.com/MecGlandorff/News)** — a local-first AI news intelligence system that turns noisy feeds into source-grounded, evolving story memory.
 
