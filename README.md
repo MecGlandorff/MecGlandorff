@@ -10,7 +10,7 @@ It contains projects I build in my spare time.
 
 - **[Kanon](https://github.com/MecGlandorff/Kanon)** - a skill that gives you, as an engineer, full overview of the systems you are working on.
 
-- **[Maths](https://github.com/MecGlandorff/maths)** - a repo in which different small math projects are written out. Nothing novel, just for practice.
+- **[Maths](https://github.com/MecGlandorff/maths)** - a repo in which different small math projects are written out. Practicing and keeping math & C++ fresh. 
 
 - **MecMusic** — private for now.
 
